@@ -1,0 +1,49 @@
+- - -- - - - - - -- - - - - - - -  - - - - - -  - -  : Types of URL :  - - - - - - - - -- - -- - - -- - - - -- - - - - - - - -- - - - - - - - - -- - - -- - -
+
+URL 1 ) ::::: --- - -- - --  - ------ - -- - - - This is the type of complete URL ::::  - -- - -- - -- -- - - -- - - - - -- -- - - - - - - - - -
+                                   HTTP{s}://xyz.somedomain .zyz/images/images.xyz
+
+HTTP{s} :::::  - - - - --  - - - This is known as ''protocol'' or "scheme''. 
+
+xyz ::::::::  - -- ---- - - - - -- - - This is the part of URL known as ''sub Domain".
+
+somedomain :::::  - -- - - - - - - This is the part of URL is "Doamin/Host'' of the website.
+                         example :::: - - -- -  { facebook, instagram ,netflix, yahoo}------- etc..........
+
+zyz ::::::: - - - - -- - -  - - This is known as TLD.
+                                      TLD==={TOP LEVEL DOMAIN}.......
+                         example :::: --  -- - - - - {.com, .in, .edu, .uk, .io, .nl}.......
+
+/images/ ::::::: - -- - -- - - -  - -  This is sometimes called ''part of URL''.These are known as ''Directory listing and Path''.
+
+images.xyz ::::: (extension):: - -- - - -- - --  This is the main file on the ''webserver''.
+                        example:::: -------- - - - - -  {cat.png , avatar.jpg}
+       picture format : - - - - - - - - -  - - {.jpg, .png, .jpeg, .svg, .ico}
+
+
+URL 2) ::::  -- - -  - - - - -  -  - - - - -- -  - This is the type of the incomplte URL ::::: - - - - -- - - - -- - - - - -- - - - - - - -- -  -
+                                           HTTP{S}://www.uber.com/In/en/Coronavirus/
+
+HTTP{S}::::::: - -  -- - - - - - - - - - -- -  This is the ''protocol or scheme''.
+
+www :::: - - - - - - -- - - - -  - - -  This is the part of URL is known as ''Sub Domain''.
+
+Uber :::::: - - -- - -  - - - - - - - -  - This is the part of URL is ''Domain/Host'' of the website.
+
+.com ::: -- - - -  - - - - -  - - - - - - - This is the Top level Domain .
+
+In :::::  -- - - --  -- ---- -- -- ---  - - - India is a parent Directory.
+
+/En/ :::: - -- - - - - -- - - - - - - -  English is the sub-parent Directory. These are known as ''Directory listing or Path''
+
+Coronavirus ::  - --  - - - -  -  -  - This is the child Directory.
+                       In this URL path are 3 times repeat. This URL is incomplete .Because the  file format is not given
+     in the last iof the URL.
+
+URL 3) :::::: - - - - - --- - - - - - - - - -  - - This is the full form of URL   - - --- - - - -- - -  -  - - - - - -- -- - - - - - - -  -
+                                     HTTP{S}://xyz.somedomain.zyz/loadimages?filename=file.zyx
+
+ /loadimages :::::: - - - --  - - - This is the part of the URL for which ''parameter'' is defined.
+''parameter'' - -  -- - - - -  -  { filename=parameter } Here filename is '''Parameter'''
+
+? :::::::  - - - - - - - - - - - - - This is known as ''Query'' in the web techonology.
